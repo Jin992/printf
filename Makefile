@@ -6,12 +6,11 @@
 #    By: earteshc <earteshc@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2017/11/05 14:34:01 by earteshc          #+#    #+#              #
-#    Updated: 2018/01/23 14:31:23 by earteshc         ###   ########.fr        #
+#    Updated: 2018/01/22 19:04:45 by earteshc         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 NAME = libftprintf.a
-CC = gcc
 CFLAGS = -Wall -Wextra -Werror -Iincludes
 
 
